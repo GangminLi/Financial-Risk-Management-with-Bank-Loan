@@ -1,5 +1,5 @@
 # Credit-Risk-Analysis-with-Bank-loan
-This the third part of practical for Finanial Risk managemtn course:
+This is the third part of practical for Finanial Risk managemtn course:
 1. Financial Risk Management Python Basics
 2. Financial Risk Management Return Analyses
 3. Financial Risk Management for Bank loan
